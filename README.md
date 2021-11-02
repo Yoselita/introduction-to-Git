@@ -1,6 +1,6 @@
-# Introduction to Git
+# An introduction to Git
 
-The material from the GIT sessions in the Data Science and Particle Physics and Physics of the Cosmos Master's degrees from Universidad de Cantabria and UIMP.
+The material from the Git sessions in the Data Science and Particle Physics and Physics of the Cosmos Master's degrees from Universidad de Cantabria and UIMP.
 
 ## Literature and online material
 
