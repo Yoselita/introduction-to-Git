@@ -10,8 +10,8 @@ The material from the Git sessions in the Data Science and Particle Physics and 
 
 * Book: [Effective Computation in Physics](https://www.oreilly.com/library/view/effective-computation-in/9781491901564)
 * Online course from Software Carpentry: [Version Control with Git](https://swcarpentry.github.io/git-novice/)
-* Online tutorial: [Git for scientists]( https://neurathsboat.blog/post/git-intro/)
 * Git reference manual online: [Reference manual](https://git-scm.com/doc/)
+* A quick introduction to Git and GitHub : [Article](https://www.authorea.com/users/5990/articles/17489/_show_article)
 * Summary: [Cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
   
